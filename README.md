@@ -8,3 +8,5 @@ AI-Powered Suggestions: Leverages Spring AI to understand the context and genera
 Customizable Templates: Easily configure email templates for specific scenarios (e.g., meeting confirmations, support requests, etc.).
 Easy Integration: Easily integrates with existing email systems and platforms.
 Secure and Scalable: Built on Spring Boot for robustness and scalability with secure API endpoints.
+
+Extension code :- https://github.com/Kshitiz-code/SmartEmailSuggester-ext
