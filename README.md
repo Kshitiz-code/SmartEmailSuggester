@@ -20,8 +20,7 @@
 1. Clone the repository:
    bash
    git clone https://github.com/Kshitiz-code/SmartEmailSuggester.git
-   
-   cd Smart-email-assistant
+2. cd Smart-email-assistant
    
 
 3. Configure *Google API credentials* for Gmail access.
