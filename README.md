@@ -20,11 +20,12 @@
 1. Clone the repository:
    bash
    git clone https://github.com/Kshitiz-code/SmartEmailSuggester.git
+   
    cd Smart-email-assistant
    
 
-2. Configure *Google API credentials* for Gmail access.
-3. Build and run the backend:
+3. Configure *Google API credentials* for Gmail access.
+4. Build and run the backend:
    bash
    mvn clean install
    mvn spring-boot:run
